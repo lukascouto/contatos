@@ -8,6 +8,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+h1 {
+  font-weight: 300;
+}
+
+.container {
+  padding: 20px;
+}
+
+.text-field {
+  padding-bottom: 20px;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
